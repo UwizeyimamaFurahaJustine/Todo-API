@@ -41,6 +41,10 @@ const swaggerOptions = {
           url: `http://localhost:${PORT}`,
           description: '',
         },
+        {
+            url: `https://todo-api-2p0w.onrender.com`,
+            description: '',
+          },
       ],
       components: {
         securitySchemes: {
